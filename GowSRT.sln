@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GowDamagelessSTD", "GowDamagelessSTD.csproj", "{70B1BDF6-4802-404C-B092-A502BF080E45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B1BDF6-4802-404C-B092-A502BF080E45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B1BDF6-4802-404C-B092-A502BF080E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B1BDF6-4802-404C-B092-A502BF080E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B1BDF6-4802-404C-B092-A502BF080E45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A85466A0-1C53-4DD3-AFA0-64D622DE0972}
+	EndGlobalSection
+EndGlobal
