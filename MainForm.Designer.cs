@@ -44,26 +44,25 @@
             // 
             // label1
             // 
-            label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.Control;
-            label1.Location = new Point(100, 9);
+            label1.Location = new Point(3, 9);
             label1.Name = "label1";
-            label1.Size = new Size(95, 21);
+            label1.Size = new Size(307, 21);
             label1.TabIndex = 0;
-            label1.Text = "God of War";
+            label1.Text = "GAME";
             label1.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
-            label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.ForeColor = SystemColors.Control;
-            label2.Location = new Point(23, 30);
+            label2.Location = new Point(3, 30);
             label2.Name = "label2";
-            label2.Size = new Size(251, 21);
+            label2.Size = new Size(307, 21);
             label2.TabIndex = 1;
-            label2.Text = "Normal Glitchless - Damageless";
+            label2.Text = "Diff";
+            label2.TextAlign = ContentAlignment.MiddleCenter;
             // 
             // dataGridView1
             // 
@@ -73,11 +72,11 @@
             dataGridView1.AllowUserToResizeRows = false;
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.BorderStyle = BorderStyle.None;
-            dataGridView1.Location = new Point(12, 54);
+            dataGridView1.Location = new Point(3, 54);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ScrollBars = ScrollBars.None;
             dataGridView1.SelectionMode = DataGridViewSelectionMode.FullRowSelect;
-            dataGridView1.Size = new Size(284, 416);
+            dataGridView1.Size = new Size(314, 416);
             dataGridView1.TabIndex = 2;
             dataGridView1.CellFormatting += dataGridView1_CellFormatting;
             // 

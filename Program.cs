@@ -14,4 +14,14 @@ namespace CounterSplit
             Application.Run(new MainForm());
         }
     }
+
+
+    public static class Config
+    {
+        public static int SelectedGame = 1;
+        public static int SelectedPlatform = 1;
+        public static string SelectedDifficulty = "Very Hard";
+        public static bool OHKO = false;
+        public static bool OHCRASH = false;
+    }
 }
